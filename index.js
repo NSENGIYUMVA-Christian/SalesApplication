@@ -1,4 +1,5 @@
 // setting up variables
+//abc
 const productName = document.getElementById("productName")
 const productId = document.getElementById("productId")
 const unitSold = document.getElementById("unitSold")
