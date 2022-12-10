@@ -1,0 +1,63 @@
+
+body{
+margin: none;
+font-weight: bold;
+margin: 30px;
+}
+
+form{
+    text-align: center;
+}
+
+h1{
+ font-weight: bold;
+ color : darkgoldenrod;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+
+h2{
+    font-weight: bold;
+    color : darkgoldenrod;
+   }
+
+   h3{
+       font-weight: bold;
+    color : darkgoldenrod;
+    font-size: larger;
+}
+#finish-btn {
+    background: darkgreen;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+#clear-btn
+{
+    background: darkred;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+#save-btn{
+    background: darkgreen;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+input
+{
+    padding: 5px;
+    border: 1px solid darkgoldenrod;
+}
